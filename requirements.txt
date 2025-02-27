@@ -1,0 +1,12 @@
+google-generativeai==0.3.2
+chromadb
+pandas
+PyPDF2
+python-dotenv
+spacy
+torch
+transformers
+scikit-learn
+colorama
+Flask
+Flask-Cors
